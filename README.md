@@ -1,2 +1,1 @@
-# grpc
-gRPC with Java
+# gRPC Java Example
